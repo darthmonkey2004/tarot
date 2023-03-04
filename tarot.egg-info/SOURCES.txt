@@ -1,0 +1,9 @@
+README.txt
+images.dat
+setup.py
+tarot/cards_data.py
+tarot/main.py
+tarot.egg-info/PKG-INFO
+tarot.egg-info/SOURCES.txt
+tarot.egg-info/dependency_links.txt
+tarot.egg-info/top_level.txt
